@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TikTok Autoplay Blocker
-// @namespace    https://www.example.com/
+// @namespace    https://www.tiktok.com/
 // @version      1
 // @description  Disables autoplay on TikTok videos by default
 // @match        https://www.tiktok.com/*
